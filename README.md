@@ -1,1 +1,1 @@
-# basic_games
+# Snake game made using basic DS concepts.
